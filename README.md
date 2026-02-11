@@ -14,4 +14,4 @@ The single biggest cause of having your accounts hacked.  If you have a favourit
 
 ## Start Here
 
-Start your journey by creating a new private email.  [Click here](Email.md).
+Start your journey by creating a new private email.  [Click here](Mail.md).
