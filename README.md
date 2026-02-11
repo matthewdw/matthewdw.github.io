@@ -11,3 +11,7 @@ There is a saying "*If you're not paying for the product then YOU are the produc
 ## Password Re-use
 
 The single biggest cause of having your accounts hacked.  If you have a favourite password that you use on multiple sites, chances are this password is already available to hackers.  We're going to explain how you can have a ***strong***, ***unique*** password for every single website you use whilst at the same time only ever having to remember one password.
+
+## Start Here
+
+Start your journey by creating a new private email.  [Click here](Email.md).
