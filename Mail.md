@@ -21,3 +21,5 @@ Write the password down on a piece of paper and don't lose it.  So in this examp
 *imbecile nature roaming landlady thumb always*
 
 This type of password (a passphrase) is just as secure as one which contains lots of numbers and symbols but is much easier to write down, and perhaps eventually memorise.  When we start storing our passwords in Proton Pass (more on this later) you will see why it is so important that we make sure our Proton account is secure.
+
+If you want, there is a way to import all of your old mails from Google Mail (or whatever you were using) and re-direct new emails to your new Proton Mail address.  But I think it's cleaner to just start fresh.  Your old emails will stay where they are if you ever need to refer to them.
