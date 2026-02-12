@@ -24,6 +24,8 @@ We aim to end up with something like this -
 | Facebook      | vCu*s;:kDD7UZ;za]&bh    |
 | Boots.com     | +!*z!:fwq8B;qt&bsD3r    |
 
+Now if Boots.com gets hacked your Boots.com is compromised.  But only your Boots.com account and nothing else.
+
 And all you will need to remember is your Proton account password.
 
 [CLICK TO CONTINUE](Passwords2.md)
